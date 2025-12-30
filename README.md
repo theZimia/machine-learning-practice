@@ -14,5 +14,7 @@ while following tutorials, courses, and documentation.
 - Scikit-learn
 - Matplotlib
 - Google Colab
+- Jupyter Notebook
+- Keggle
 
 Each folder represents a separate learning module.
