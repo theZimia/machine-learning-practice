@@ -1,4 +1,4 @@
-# Machine Learning Learning Repository
+# Machine Learning Repository
 
 This repository contains my hands-on machine learning practice
 while following tutorials, courses, and documentation.
